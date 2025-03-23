@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm a 15-year-old passionate about cybersecurity. I'm constantly working to expand my skills and knowledge in this field. I actively participate in CTFs challenges and engage with platforms like Hack The Box, TryHackMe, Pwnable, and training.olicyber to improve my practical skills. Always eager to learn, I’m committed to growing as a cybersecurity enthusiast and practitioner.
+<br>I'm a 15-year-old passionate about cybersecurity. I'm constantly working to expand my skills and knowledge in this field. I actively participate in CTFs and engage with platforms like Hack The Box, TryHackMe, Pwnable, and training.olicyber to improve my practical skills. Always eager to learn, I’m committed to growing as a cybersecurity enthusiast and practitioner.
 <img src="https://raw.githubusercontent.com/FedeBosio279/ocbadge/main/card.svg"/>
 
 
