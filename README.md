@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/USER/ocbadge/main/card.svg"/>
+<img src="https://raw.githubusercontent.com/FedeBosio279/ocbadge/main/card.svg"/>
