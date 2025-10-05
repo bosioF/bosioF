@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bosioF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bosiof&show_icons=true&theme=dark&locale=en" alt="bosiof" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiof&theme=dark" alt="bosiof" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiof&theme=dark" alt="bosiof" /></p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h0ny/h0ny/output/github-snake-dark.svg" />
