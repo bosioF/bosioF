@@ -1,5 +1,6 @@
 # 💫 About Me:
 <br>I'm a 16-year-old passionate about cybersecurity. I actively participate in CTFs and engage with platforms like Hack The Box, TryHackMe and Olicyber's training portal to improve my practical skills. My dream is to join TeamItaly and i'm constantly working in order to achieve this.
+
 <img src="https://raw.githubusercontent.com/FedeBosio279/ocbadge/main/card.svg"/>
 
 <h3 align="left">Languages and Tools:</h3>
