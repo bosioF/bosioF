@@ -19,8 +19,8 @@
 # 📊 Some Stats:
 <img src="https://raw.githubusercontent.com/FedeBosio279/ocbadge/main/card.svg"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bosioF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bosiof&show_icons=true&theme=dark&locale=en" alt="bosiof" /></p>
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=bosioF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bosiof&show_icons=true&theme=dark&locale=en" alt="bosiof" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosiof&theme=dark" alt="bosiof" /></p> -->
 
 <picture>
