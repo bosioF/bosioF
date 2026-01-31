@@ -16,7 +16,7 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Redis-Dark.svg" alt="redis" width="40" height="40"/> </a> 
 </p>
 
-# 📊 Some Stats:
+# Some Stats:
 <img src="https://raw.githubusercontent.com/FedeBosio279/ocbadge/main/card.svg"/>
 
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=bosioF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
