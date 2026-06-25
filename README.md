@@ -47,12 +47,7 @@
 </picture>
 
 ###
-
-<div align="center">
-  <a href="https://x.com/bosio09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://bsky.app/profile/bosi0.bsky.social" target="_blank">
+<a href="https://bsky.app/profile/bosi0.bsky.social" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
   </a>
 </div>
