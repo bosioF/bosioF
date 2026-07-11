@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 16-year-old passionate about cybersecurity, in particular low-level and software security. I actively participate in CTFs alongside <a href="https://rootrunners.dev">RootRunners</a> and engage with platforms like Hack The Box (currently studying for CPTS) and pwn.college to improve my practical skills. My dream is to join TeamItaly and i'm constantly working in order to achieve this.</p>
+<p align="left">I'm a guy passionate about cybersecurity, in particular low-level and software security. I actively participate in CTFs alongside <a href="https://rootrunners.dev">RootRunners</a> and engage with platforms like Hack The Box (currently studying for CPTS) and pwn.college to improve my practical skills. My dream is to join TeamItaly and i'm constantly working in order to achieve this.</p>
 
 ###
 
