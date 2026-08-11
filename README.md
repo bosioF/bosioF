@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a guy passionate about cybersecurity, in particular web security but also low-level and reverse engineering. I actively participate in CTFs alongside <a href="https://rootrunners.dev">RootRunners</a> and engage with platforms like Hack The Box (currently studying for CPTS) and pwn.college to improve my practical skills. My goal is to join TeamItaly and i'm constantly working in order to achieve this.</p>
+<p align="left">I'm a guy passionate about cybersecurity, in particular web security but also low-level and reverse engineering. I actively participate in CTFs alongside <a href="https://rootrunners.dev">RootRunners</a> and engage with platforms like Hack The Box (currently studying for CPTS) and pwn.college to improve my practical skills. My goal is to join <a href="https://teamitaly.eu/">TeamItaly</a> and i'm constantly working in order to achieve this.</p>
 
 ###
 
@@ -30,13 +30,11 @@
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" height="60" alt="cloudfare logo"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FedeBosio279/ocbadge/main/card.svg"/>
-</div>
 
 ###
 
@@ -48,9 +46,13 @@
 
 ###
 
+
 <div align="center">
 <a href="https://bsky.app/profile/b0510.bsky.social" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
+  </a>
+  <a href="https://x.com/bosio09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
