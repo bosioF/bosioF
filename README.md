@@ -1,33 +1,23 @@
-<h1 align="center">Hey, what's Up?</h1>
-
-###
-
-<p align="left">I'm a guy passionate about cybersecurity, in particular web security but also low-level and reverse engineering. I actively participate in CTFs alongside <a href="https://rootrunners.dev">RootRunners</a> and engage with platforms like Hack The Box (currently studying for CPTS) and pwn.college to improve my practical skills. My goal is to join <a href="https://teamitaly.eu/">TeamItaly</a> and i'm constantly working in order to achieve this.</p>
+<p align="left">into cybersec, mostly focused on websec with occasional dips into low-level and reverse engineering. i play CTFs with <a href="https://rootrunners.dev">RootRunners</a> and practice on Hack The Box (prepping for CPTS) and pwn.college. hoping to join <a href="https://teamitaly.eu/">TeamItaly</a> someday</p>
 
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
   <img width="12" />
